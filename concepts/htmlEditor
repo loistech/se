@@ -1,0 +1,22 @@
+#!/usr/bin/bash
+
+sed -i 's/data-id=147939//g' *.html
+
+sed -i 's/147939//g' *.html
+
+sed -i 's/"Tivere IDORO",//g' *.html
+
+sed -i 's/"Tivere IDORO"//g' *.html
+
+sed -i 's/tivereidoro//g' *.html
+
+sed -i 's/data-id=299854//g' *.html
+
+sed -i 's/299854//g' *.html
+
+sed -i 's/Tivere IDORO//g' *.html
+
+sed -i 's/Eibo//g' *.html
+
+sed -i 's/Ebube//g' *.html
+
