@@ -1,7 +1,8 @@
 ---
 
 < - () => {
-  missing arg
+  missing arg;
+  log
 }
 
 ---
